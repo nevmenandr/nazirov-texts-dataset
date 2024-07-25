@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: Набор данных «Назировского архива»
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Boris
+    family-names: Orekhov
+    name-particle: Boris Orekhov
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11323195
+repository-code: 'https://github.com/nevmenandr/nazirov-texts-dataset'
+url: 'http://nevmenandr.net/nazirov/journal.php'
+abstract: >-
+  В этом репозитории находятся машиночитаемые тексты Р. Г.
+  Назирова, российского литературоведа, историка культуры. В
+  датасете представлены тексты дневников за 1950--1960-е
+  гг., научные статьи и монографии о Достоевском, о русской
+  и зарубежной литературе, о мифологии и истории фольклорных
+  сюжетов, а также художественное творчество автора.
+keywords:
+  - nazirov
+license: GPL-1.0
+commit: 9d0f4d2057a82f227c792fc31856cff9f63e87fe
+version: 1.0.0
+date-released: '2019-04-16'
